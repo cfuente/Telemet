@@ -89,7 +89,6 @@ def lecturaParametros():
  # Escribir en el archivo de LOG. 
  # ENTRADAS:
  #   -mensaje : mensaje a escribir
- #   
  #-----------------------------------------------------------------------------
 
 def log(mensaje):
